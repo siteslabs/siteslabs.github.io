@@ -12,3 +12,13 @@
 
 [Cocktail-project](https://beksultan-react-cocktail-project.netlify.app/)
 
+[Accordion-project](https://beksultan-react-accordion-project.netlify.app)
+
+[Menu](https://beksultan-react-menu-project.netlify.app)
+
+[Tours](https://beksultan-react-menu-project.netlify.app)
+
+[Lorem-ipsum](https://beksultan-react-lorem-ipsum.netlify.app)
+
+[Grocery-list](https://beksultan-react-grocery-list.netlify.app)
+
