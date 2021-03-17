@@ -8,4 +8,7 @@
 
 [Business site 2](https://siteslabs.github.io/business%20proj/index.html)
 
+# React sites:
+
+[Cocktail-project](https://beksultan-react-cocktail-project.netlify.app/)
 
