@@ -20,7 +20,7 @@
 
 [Lorem-ipsum](https://beksultan-react-lorem-ipsum.netlify.app)
 
-[Grocery-list](https://beksultan-react-grocery-list.netlify.app)
+[Todo-list](https://beksultan-react-todo-list.netlify.app)
 
 [React-cart](https://beksultan-react-cart.netlify.app)
 
